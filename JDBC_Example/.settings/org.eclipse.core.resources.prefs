@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/controller/Batch.java=UTF-8
+encoding//src/com/controller/DeleteServlet.java=UTF-8
+encoding//src/com/controller/FindBook.java=UTF-8
+encoding//src/com/controller/FindDeleteServlet.java=UTF-8
+encoding//src/com/controller/FindServlet.java=UTF-8
+encoding//src/com/controller/FindUpdateServlet.java=UTF-8
+encoding//src/com/controller/FindUpdateServletSta.java=UTF-8
+encoding//src/com/controller/UpdateServlet.java=UTF-8
+encoding//src/com/controller/UpdateServletStatement.java=UTF-8
+encoding//src/com/model/BookBean.java=gbk
+encoding/\u8BF4\u660E.txt=gbk
